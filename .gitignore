@@ -25,3 +25,4 @@ hs_err_pid*
 # fichier IntelliJ
 *.iml
 .idea/
+out/
