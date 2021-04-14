@@ -5,6 +5,8 @@ public class Voiture {
     public final static Marque COMPANY = Marque.VOLVO;
     public Marque marque;
 
+    public final static int nbr_portes = 4;
+
     public Voiture(String nom, Marque mar) {
         this.marque = mar;
         this.nom = nom;
